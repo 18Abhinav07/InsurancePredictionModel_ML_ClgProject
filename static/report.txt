@@ -1,0 +1,3 @@
+
+Best Model: RandomForest
+Metrics: {'train_r2': 0.9897509241599134, 'test_r2': 0.9579674714660052, 'train_mse': 13025975.992119038, 'test_mse': 18945395.255636342, 'train_mae': 1975.020903367241, 'test_mae': 2435.3205604503187}
